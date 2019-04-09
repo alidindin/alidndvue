@@ -1,0 +1,183 @@
+@import '../custom-properties/colors.css';
+@import '../custom-properties/dimensons.css';
+
+
+/* Class Shorcuts*/
+/*
+dl = dlab
+pri = primary
+sec = secondary
+clr = color
+ */
+
+/*Primary Base Colors*/
+.dl-clr {
+    max-width:var(--clr-dim-wt);
+    height:var(--clr-dim-ht);
+    cursor: copy;
+}
+
+
+.dl-clr-pri-base-white{
+    background-color:var(--base-white);/*
+    border-style: solid;
+    border-width: 1px;*/
+}
+
+.dl-clr-pri-base-gray{
+    background-color:var(--base-gray);
+}
+
+.dl-clr-pri-base-black{
+    background-color:var(--base-black);
+}
+.dl-clr-pri-base-red{
+    background-color:var(--base-red);
+}
+
+/* Secondary Phase Colors */
+
+.dl-clr-sec-phase0{
+    background: linear-gradient(to right, var(--color-phase-project-start-start), var(--color-phase-project-start-end));
+}
+
+.dl-clr-sec-phase1{
+    background: linear-gradient(to right, var(--color-phase1-start), var(--color-phase1-end));
+}
+
+.dl-clr-sec-phase2{
+    background: linear-gradient(to right, var(--color-phase2-start), var(--color-phase2-end));
+}
+
+.dl-clr-sec-phase3{
+    background: linear-gradient(to right, var(--color-phase3-start), var(--color-phase3-end));
+}
+
+.dl-clr-sec-phase4{
+    background: linear-gradient(to right, var(--color-phase4-start), var(--color-phase4-end));
+}
+
+.dl-clr-sec-phase5{
+    background: linear-gradient(to right, var(--color-phase5-start), var(--color-phase5-end));
+}
+
+.dl-clr-sec-phase6{
+    background: linear-gradient(to right, var(--color-phase6-start), var(--color-phase6-end));
+}
+
+.dl-clr-sec-phase7{
+    background: linear-gradient(to right, var(--color-phase7-start), var(--color-phase7-end));
+}
+
+.dl-clr-sec-phase8{
+    background: linear-gradient(to right, var(--color-phase8-start), var(--color-phase8-end));
+}
+
+.dl-clr-sec-phase9{
+    background: linear-gradient(to right, var(--color-phase-project-end-end), var(--color-phase-project-end-end));
+}
+
+/* Inactive Colors */
+
+.dl-clr-inact-phase0{
+    background-color: var(--base-white);
+}
+
+
+.dl-clr-inact-phase1{
+    background-color: var(--color-phase1-inactive);
+}
+
+.dl-clr-inact-phase2{
+    background-color: var(--color-phase2-inactive);
+}
+
+.dl-clr-inact-phase3{
+    background-color: var(--color-phase3-inactive);
+}
+
+.dl-clr-inact-phase4{
+    background-color: var(--color-phase4-inactive);
+}
+
+.dl-clr-inact-phase5{
+    background-color: var(--color-phase5-inactive);
+}
+
+.dl-clr-inact-phase6{
+    background-color: var(--color-phase6-inactive);
+}
+
+.dl-clr-inact-phase7{
+    background-color: var(--color-phase7-inactive);
+}
+
+.dl-clr-inact-phase8{
+    background-color: var(--color-phase8-inactive);
+}
+
+.dl-clr-inact-phase9{
+    background-color: var(--color-phase9-inactive);
+}
+
+
+
+
+/* Gray Colors */
+
+.dl-clr-tbl-lgt{
+    background-color: var(--color-table-cell-lighter);
+}
+
+.dl-clr-tbl-drk{
+    background-color: var(--color-table-cell-darker);
+}
+
+.dl-clr-crd-otl{
+    background-color: var(--color-cards-outline);
+}
+
+.dl-clr-btn{
+    background-color: var(--color-buttons);
+}
+
+.dl-clr-rgl-ln{
+    background-color: var(--color-regler-linie);
+}
+
+.dl-clr-ftr-bg{
+    background-color: var(--color-footer-background);
+}
+
+.dl-clr-tsr {
+    background-color: var(--color-teaser);
+}
+
+.dl-clr-ftr-bg-2{
+    background-color: var(--color-footer-background-2);
+}
+
+.dl-clr-nav-sub {
+    background-color: var(--color-navigation-subtext);
+}
+
+.dl-clr-ill {
+    background-color: var(--color-illustration);
+}
+
+.dl-color-dframe-line {
+    background-color: var(--color-dframe-line);
+}
+
+/* Logo Colors */
+
+.dl-color-logo-red {
+    background-color: var(--color-dframe-logo-red);
+}
+
+.dl-color-logo-gray {
+    background-color: var(--color-dframe-logo-gray);
+
+}
+
+

@@ -1,0 +1,20 @@
+@import '../custom-properties/logos.css';
+
+.dl-logo {
+  width: var(--logo-width);
+  height: var(--logo-height);
+  background: none;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.dl-logo-clp-div{
+  cursor: copy;
+}
+
+.dl-logo-dlab {
+  background-image: url("../assets/images/dlab-logo.svg");
+}
+
+.dl-logo-dframe {
+  background-image: url("../assets/images/dframe-logo.svg");
+}

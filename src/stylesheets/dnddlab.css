@@ -1,0 +1,32 @@
+.img-banner{
+  -moz-align-items: center;
+  -webkit-align-items: center;
+  -ms-align-items: center;
+  align-items: center;
+
+  display: -moz-flex;
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  padding: 6em 0 2em 0 ;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  border-bottom: 0 !important;
+  cursor: default;
+  height: 30vh;
+  width: 100%;
+  margin-bottom: -6.25em;
+  margin-left: 50px;
+  max-height: 32em;
+  min-height: 22em;
+  position: absolute;
+
+
+  top:-50px;
+
+
+}

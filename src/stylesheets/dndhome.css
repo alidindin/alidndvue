@@ -1,0 +1,70 @@
+/* Doku Content */
+
+body {
+
+}
+
+/* Golden Ratio Overlay*/
+/*
+.overlay{
+    /*position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    background-image: url("../assets/Golden/goldener-schnitt-3.svg");
+    background-position: 130px 0px;
+}*/
+
+.main-row {
+  margin-bottom: -50px;
+}
+
+/* Centering Elements */
+
+.div-vcard {
+  display:flex;
+  justify-content:center;
+}
+
+.doku-flex{
+  display:flex;
+}
+
+
+/* V-Card Styles */
+
+.vcard-row-position {
+  margin-top: 150px;
+}
+
+.vcard-dimensons {
+  margin-bottom: 0px;
+}
+
+.vcard-margin-left{
+  margin-right: 10px;
+}
+
+.vcard-margin{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+
+
+/* Div Position */
+
+
+.div-position {
+  padding-bottom: 150px;
+}
+
+
+.page {
+  position: fixed;
+
+
+}

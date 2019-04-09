@@ -1,0 +1,43 @@
+@import '../custom-properties/dimensons.css';
+
+.dframe-dimensons-textbutton-min{
+    width: var(--dimensons-textbutton-min-width);
+    height: var(--dimensons-textbutton-min-height);
+}
+
+.dframe-dimensons-textbutton-max{
+    width: var(--dimensons-textbutton-min-width);
+    height: var(--dimensons-textbutton-min-height);
+}
+
+.dframe-dimensons-input{
+    width: var(--dimensons-input-width);
+    height: var(--dimensons-input-height);
+}
+
+.dframe-dimensons-iconbutton{
+    width: var(--dimensons-iconbutton-width);
+    height: var(--dimensons-iconbutton-height);
+    max-width: 100px;
+    transition: color 0.2s ease-out;
+    background: none;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    outline: 0 !important;
+    /*background-position: center;*/
+}
+
+.dframe-textbutton-dimensons-min {
+    background-image: url('../assets/images/dimensonsObjects/dimensons-textbutton-min.svg');
+}
+
+.dframe-iconbutton-dimensons {
+    background-image: url('../assets/images/dimensonsObjects/dimensons-iconbuttons.svg');
+}
+
+.dframe-input-dimensons {
+    background-image: url('../assets/images/dimensonsObjects/dimensons-inputfelder.svg');
+}

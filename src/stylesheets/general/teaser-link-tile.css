@@ -1,0 +1,20 @@
+.tile-card {
+  margin: 2em 0 2em 0;
+  cursor: pointer;
+  text-align: center;
+}
+
+.teaser-headline {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.teaser-link-body {
+  text-align: center;
+}
+
+.teaser-link-image {
+  width: 60%;
+  max-width: 300px;
+  margin-bottom: 1em;
+}

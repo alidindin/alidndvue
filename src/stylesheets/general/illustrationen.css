@@ -1,0 +1,201 @@
+@import '../custom-properties/illustrationen.css';
+
+.dl-illu {
+  width: var(--illustration-width);
+  height: var(--illustration-height);
+  background-position: var(--background-position);
+  margin-left: var(--margin-left);
+  margin-right: var(--margin-right);
+}
+
+.dl-illu-div-clp{
+  cursor: copy;
+}
+
+.dl-illu-desk-research {
+  background-image: url('../assets/images/illus/desk-research.svg');
+}
+
+.dl-illu-himmel-holle {
+  background-image: url('../assets/images/illus/himmel-holle.svg');
+}
+
+.dl-illu-ideenbeschreibung {
+  background-image: url('../assets/images/illus/ideenbeschreibung.svg');
+}
+
+.dl-illu-ubergabe-checklist {
+  background-image: url('../assets/images/illus/ubergabe-checklist.svg');
+}
+
+.dl-illu-brainwriting {
+  background-image: url('../assets/images/illus/brainwriting.svg');
+}
+
+.dl-illu-elevator-pitch {
+  background-image: url('../assets/images/illus/elevator-pitch.svg');
+}
+
+.dl-illu-feedback-grid {
+  background-image: url('../assets/images/illus/feedback-grid.svg');
+}
+
+.dl-illu-recherche-planen {
+  background-image: url('../assets/images/illus/recherche-planen.svg');
+}
+
+.dl-illu-point-of-view {
+  background-image: url('../assets/images/illus/point-of-view.svg');
+}
+
+.dl-illu-present {
+  background-image: url('../assets/images/illus/present.svg');
+}
+
+.dl-illu-smartphone {
+  background-image: url('../assets/images/illus/smartphone.svg');
+}
+
+.dl-illu-user-journey {
+  background-image: url('../assets/images/illus/user-journey.svg');
+}
+
+.dl-illu-shadowing {
+  background-image: url('../assets/images/illus/shadowing.svg');
+}
+
+.dl-illu-4w-fragen {
+  background-image: url('../assets/images/illus/4w-fragen.svg');
+}
+
+.dl-illu-opportunity-mapping {
+  background-image: url('../assets/images/illus/opportunity-mapping.svg');
+}
+
+.dl-illu-verantwortlichkeiten {
+  background-image: url('../assets/images/illus/verantwortlichkeiten.svg');
+}
+
+.dl-illu-trendmixer {
+  background-image: url('../assets/images/illus/trendmixer.svg');
+}
+
+.dl-illu-spinnennetz-diagramm {
+  background-image: url('../assets/images/illus/spinnennetz-diagramm.svg');
+}
+
+.dl-illu-download-session {
+  background-image: url('../assets/images/illus/download-session.svg');
+}
+
+.dl-illu-jobs-to-be-done {
+  background-image: url('../assets/images/illus/jobs-to-be-done.svg');
+}
+
+.dl-illu-benchmark {
+  background-image: url('../assets/images/illus/benchmark.svg');
+}
+
+.dl-illu-great-brands {
+  background-image: url('../assets/images/illus/great-brands.svg');
+}
+
+.dl-illu-feasibilty {
+  background-image: url('../assets/images/illus/feasibility-roadmap.svg');
+}
+
+.dl-illu-selbsttest {
+  background-image: url('../assets/images/illus/selbsttest.svg');
+}
+
+.dl-illu-business-model-canvas {
+  background-image: url('../assets/images/illus/business-model-canvas.svg');
+}
+
+.dl-illu-explorationsfokus {
+  background-image: url('../assets/images/illus/explorationsfokus.svg');
+}
+
+.dl-illu-stipvisite {
+  background-image: url('../assets/images/illus/stipvisite.svg');
+}
+
+.dl-illu-story-telling {
+  background-image: url('../assets/images/illus/story-telling.svg');
+}
+
+.dl-illu-emotional-map {
+  background-image: url('../assets/images/illus/emotional-map.svg');
+}
+
+.dl-illu-reframing {
+  background-image: url('../assets/images/illus/reframing.svg');
+}
+
+.dl-illu-user-story {
+  background-image: url('../assets/images/illus/user-story.svg');
+}
+
+.dl-illu-user-interview {
+  background-image: url('../assets/images/illus/user-interview.svg');
+}
+
+.dl-illu-prototyping {
+  background-image: url('../assets/images/illus/prototyping.svg');
+}
+
+.dl-illu-dotmocracy {
+  background-image: url('../assets/images/illus/dotmocracy.svg');
+}
+
+.dl-illu-problem-definition {
+  background-image: url('../assets/images/illus/problem-definition.svg');
+}
+
+.dl-illu-pitch {
+  background-image: url('../assets/images/illus/pitch.svg');
+}
+
+.dl-illu-personas {
+  background-image: url('../assets/images/illus/personas.svg');
+}
+
+.dl-illu-user-sprechblase {
+  background-image: url('../assets/images/illus/user-sprechblase.svg');
+}
+
+.dl-illu-emphaty-map {
+  background-image: url('../assets/images/illus/emphaty-map.svg');
+}
+
+.dl-illu-video-cut {
+  background-image: url('../assets/images/illus/video-cut.svg');
+}
+
+.dl-illu-dokumentation {
+  background-image: url('../assets/images/illus/dokumentation.svg');
+}
+
+.dl-illu-emotional-journey {
+  background-image: url('../assets/images/illus/emotional-journey.svg');
+}
+
+.dl-illu-behind-the-scenes {
+  background-image: url('../assets/images/illus/behind-the-scenes.svg');
+}
+
+.dl-illu-graph {
+  background-image: url('../assets/images/illus/graph.svg');
+}
+
+.dl-illu-customer-is-king {
+  background-image: url('../assets/images/illus/customer-is-king.svg');
+}
+
+.dl-illu-journey {
+  background-image: url('../assets/images/illus/journey.svg');
+}
+
+.dl-illu-user-map{
+  background-image: url('../assets/images/illus/user-map.svg');
+}

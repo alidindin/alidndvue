@@ -1,0 +1,4 @@
+@custom-media --phone (max-width: 576px);
+@custom-media --tablet (max-width: 992px);
+@custom-media --desktop (max-width: 1200px);
+@custom-media --big-screen (min-width: 1200px);

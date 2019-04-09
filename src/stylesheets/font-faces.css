@@ -1,0 +1,10 @@
+@font-face {
+  font-family: DB Office Bold;
+  src: url('../assets/font/dboff06.woff');
+
+}
+
+@font-face {
+  font-family: 'DB Office Regular';
+  src: url('../assets/font/dboff03.woff');
+}

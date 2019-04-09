@@ -1,0 +1,68 @@
+@import './font-sizes.css';
+
+@define-mixin font-regular-template $fontSize, $color {
+  font-family: 'DB Office Regular', Helvetica, sans-serif;
+  color: $color;
+  font-size: $fontSize;
+  font-weight: 100;
+}
+
+@define-mixin font-bold-template $fontSize, $color {
+  font-family: 'DB Office Bold', Helvetica, sans-serif;
+  font-size: $fontSize;
+  color: $color;
+  font-weight: 600;
+}
+
+@define-mixin font-page-title {
+@mixin font-bold-template $fontsize-page-title, #6D757A;
+}
+
+@define-mixin font-h1 {
+@mixin font-regular-template $fontsize-h1, #000000;
+}
+
+@define-mixin font-h2 {
+@mixin font-regular-template $fontsize-h2, #FF0000;
+}
+
+@define-mixin font-h2-black {
+@mixin font-regular-template $fontsize-h2, #000000;
+}
+
+@define-mixin font-h3 {
+@mixin font-regular-template $fontsize-h3, #000000;
+}
+
+@define-mixin font-additional-information {
+@mixin font-regular-template $fontsize-additional-information, #000000;
+}
+
+@define-mixin font-regular {
+@mixin font-regular-template $fontsize-regular, #000000;
+}
+
+@define-mixin font-small {
+@mixin font-regular-template $fontsize-small, #000000;
+}
+
+@define-mixin font-capitals {
+@mixin font-regular;
+  text-transform: uppercase;
+}
+
+@define-mixin font-big-capitals {
+@mixin font-regular-template $fontsize-capitals, #000000;
+  text-transform: uppercase;
+}
+
+@define-mixin font-small-capitals {
+@mixin font-small;
+  text-transform: uppercase;
+}
+
+@define-mixin font-small-capitals-red {
+@mixin font-regular-template $fontsize-small, #FF0000;
+  text-transform: uppercase;
+}
+

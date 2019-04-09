@@ -1,0 +1,74 @@
+ :root {
+    /* primary colors */
+    --base-white: #FFFFFF;
+    --base-gray: #6D757A;
+    --base-black: #000000;
+    --base-red: #FF0000;
+
+
+
+
+    /* start and end values of the phase-gradients. The start-value is the main color of the phase-background */
+    --color-phase-project-start-start: #ADADAD;
+    --color-phase-project-start-end: #858585;
+
+    --color-phase1-start: #E5007E;
+    --color-phase1-end: #C2006B;
+    --color-phase1-inactive: #F8DBEB;
+
+    --color-phase2-start: #E20613;
+    --color-phase2-end: #BF0D0D;
+    --color-phase2-inactive: #F9DBDB;
+
+    --color-phase3-start: #F29100;
+    --color-phase3-end: #CD7D00;
+    --color-phase3-inactive: #FAE4D7;
+
+    --color-phase4-start: #EECD00;
+    --color-phase4-end: #DABC00;
+    --color-phase4-inactive: #F6F6D4;
+
+    --color-phase5-start: #93C01F;
+    --color-phase5-end: #749619;
+    --color-phase5-inactive: #DEEDDA;
+
+    --color-phase6-start: #00A099;
+    --color-phase6-end: #007F79;
+    --color-phase6-inactive: #DBEEED;
+
+    --color-phase7-start: #1D70B7;
+    --color-phase7-end: #1A588E;
+    --color-phase7-inactive: #DCE4F0;
+
+    --color-phase8-start: #6E278C;
+    --color-phase8-end: #4B2261;
+    --color-phase8-inactive: #E5E2ED;
+
+     --color-phase9-inactive:#DDDDDD;
+
+    --color-phase-project-end-start: #666666;
+    --color-phase-project-end-end: #474747;
+
+
+
+
+     --color-styleguide-basis-stilemente:#3eb49b;
+
+     /* unbunte */
+     --color-table-cell-lighter: #F9F9F2;
+     --color-table-cell-darker: #F2F2F2;
+     --color-cards-outline: #E6E6E6;
+     --color-buttons: #DDDDDD;
+     --color-regler-linie: #CCCCCC;
+     --color-footer-background: #AEAEAE;
+     --color-footer-background-2: #6D757D;
+     --color-teaser: #999999;
+     --color-navigation-subtext: #666666;
+     --color-illustration: #474747;
+     --color-dframe-line: #AEAEAE;
+
+
+     /* d.frame & d.lab logo colors */
+     --color-dframe-logo-red: #FF0000;
+     --color-dframe-logo-gray: #6D757A;
+}

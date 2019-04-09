@@ -1,0 +1,116 @@
+
+.styleframe-scrollposition {
+  padding-top: 80px;
+}
+
+.styleframe-header {
+  font-size: 36px;
+  color:white;
+}
+
+.styleframe-h1 {
+  padding-top: 50px;
+  padding-bottom: 10px;
+  font-size: 28px;
+  color:white;
+}
+
+.text-position {
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.styleframe-h4 {
+  font-size: 22px;
+  color:black;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  justify-content:left;
+}
+
+.div-position {
+  padding-bottom: 50px;
+}
+
+.div-position-2 {
+  padding-bottom: 50px;
+}
+
+.div-position-3 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.div-position-4 {
+  margin-bottom: 10px;
+}
+
+.element-position {
+  padding: 10px;
+}
+
+
+.styleframe-center {
+  display: flex;
+  justify-content:center;
+
+}
+.styleframe-flex{
+  display:flex;
+}
+.icon-text {
+  padding-top:80px;
+}
+
+.logo-position {
+  padding:10px;
+}
+
+.color-black {
+  color: #000000;
+}
+
+
+.images-dropdown {
+
+  width:400px;
+  height: auto;
+}
+
+
+/* Buttons */
+
+.button-text {
+  color:black;
+  padding-left: 10px;
+}
+
+.button-text-2 {
+  color:black;
+  padding-left: 10px;
+}
+
+
+.text-white {
+  color: #FFFFFF;
+}
+.text-black {
+  color: #000000;
+}
+
+.p-position {
+  padding:10px;
+}
+/*
+
+span{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.div-position {
+  padding-bottom: 0px;
+}
+
+
+*/

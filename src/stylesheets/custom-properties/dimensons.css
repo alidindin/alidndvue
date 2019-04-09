@@ -1,0 +1,14 @@
+:root {
+
+    /* icon colors and sizes, enabled and disabled*/
+    --dimensons-textbutton-min-width: 110px;
+    --dimensons-textbutton-min-height: 35px;
+    --dimensons-textbutton-max-width: 220px;
+    --dimensons-textbutton-max-height: 35px;
+    --dimensons-iconbutton-width: 65px;
+    --dimensons-iconbutton-height: 65px;
+    --clr-dim-wt: 100%;
+    --clr-dim-ht:auto;
+    --dimensons-input-width: 800px;
+    --dimensons-input-height: 200px;
+}

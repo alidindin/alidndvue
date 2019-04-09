@@ -1,0 +1,7 @@
+$fontsize-h1: calc(26px + (36 - 26) * (100vw - 300px) / (3000 - 300));
+$fontsize-h2: calc(22px + (26 - 22) * (100vw - 300px) / (3000 - 300));
+$fontsize-h3: calc(18px + (24 - 18) * (100vw - 300px) / (3000 - 300));
+$fontsize-page-title: calc(28px + (40 - 28) * (100vw - 300px) / (3000 - 300));
+$fontsize-regular: calc(14px + (20 - 14) * (100vw - 300px) / (3000 - 300));
+$fontsize-small: calc(12px + (12 - 10) * (100vw - 300px) / (3000 - 300));
+$fontsize-capitals: calc(16px + (30 - 16) * (100vw - 300px) / (3000 - 300));

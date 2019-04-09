@@ -1,0 +1,18 @@
+.basis-stilelemente-bg {
+  background-color: #3eb49b;
+  padding: 50px;
+}
+
+.div-bg{
+  background-color: white;
+}
+
+
+.card-layout{
+  height:120px;
+}
+
+.v-card-text-layout{
+  padding-left: 10px;
+  padding-right: 10px;
+}

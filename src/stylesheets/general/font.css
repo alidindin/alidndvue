@@ -1,0 +1,99 @@
+@import '../custom-selectors.css';
+@import '../custom-properties/font.css';
+
+.dl-fnt-div-clp{
+  cursor: copy;
+}
+
+/* === GENERAL */
+.dl-fnt-page-title {
+@mixin font-page-title;
+@mixin no-select;
+}
+
+/* === HEADLINES */
+
+:--heading {
+@mixin no-select;
+}
+
+.dl-fnt-h1 {
+@mixin font-h1;
+}
+
+.dl-fnt-h2 {
+@mixin font-h2;
+}
+
+h3 {
+@mixin font-h3;
+}
+
+/* === HEADLINE BY CLASS */
+.dframe-h1 {
+@mixin font-h1;
+}
+^
+.dframe-h2 {
+@mixin font-h2;
+}
+
+.dframe-h2-black {
+@mixin font-h2-black;
+}
+
+.dframe-h2-black-bold-uppercase {
+@mixin font-h2-black;
+  font-weight: 900;
+  font-size: 24px;
+  text-transform: uppercase;
+}
+
+.dframe-h3 {
+@mixin font-h3;
+}
+
+.dframe-h3-bold {
+@mixin font-h3;
+  font-weight: 500;
+}
+
+.dl-fnt-text-regular {
+@mixin font-regular;
+}
+
+.dl-fnt-text-small {
+@mixin font-small;
+}
+
+.dframe-text-small-not-thin {
+@mixin font-small;
+  font-weight: 500;
+}
+
+.dframe-text-capitals {
+@mixin font-capitals;
+}
+
+.dframe-text-big-capitals {
+@mixin font-big-capitals;
+}
+
+.dframe-text-big-capitals-red {
+@mixin font-big-capitals;
+  color: #FF0000;
+}
+
+.dframe-text-small-capitals {
+@mixin font-small-capitals;
+}
+
+.dframe-text-small-capitals-red {
+@mixin font-small-capitals-red;
+}
+
+.dframe-text-enumeration {
+@mixin font-regular;
+  color: white;
+  font-size: 30px;
+}

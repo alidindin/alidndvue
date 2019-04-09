@@ -1,0 +1,3 @@
+@define-mixin no-select {
+    user-select: none;
+}

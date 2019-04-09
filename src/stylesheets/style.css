@@ -1,0 +1,67 @@
+/* == CUSTOM PROPERTIES */
+
+
+/* == FONT-FACES */
+@import "./font-faces.css";
+
+/* == UTILITY */
+@import 'mixins/util.css';
+
+/* == MEDIA-QUERIES *//*
+@import 'media-queries.css';
+
+/* == CUSTOM-PROPERTIES */
+@import 'custom-properties/font.css';
+
+/* == CUSTOM-SELECTORS */
+@import 'custom-selectors.css';
+
+/* GENERAL STYLESHEETS */
+@import 'general/main.css';
+@import 'general/font.css';/*
+@import 'general/button.css';
+@import 'general/unordered-list.css';
+@import 'general/link.css';*/
+@import 'general/icons.css';/*
+@import 'general/icon-button.css';
+@import 'general/divider.css';
+@import 'general/input.css';
+@import 'general/badges.css';
+@import 'general/phase/background.css';
+@import 'general/text-transform.css';
+@import 'general/alerts.css';
+@import 'general/cursor.css';
+/*
+@import 'general/input-list.css';
+@import 'general/overlay-component.css';*/
+@import 'general/teaser-link-tile.css';
+@import 'general/error-404.css';
+
+
+
+/*
+@import 'general/dimensonsObjects.css';*/
+@import 'general/colors.css';
+@import 'general/illustrationen.css';/*
+@import 'general/phasen.css';
+@import 'general/phasen-tab.css';
+@import 'general/module.css';
+@import 'general/dframe-spezifische-elemente.css';
+@import 'general/nummerierungen.css';*/
+@import 'general/logos.css';
+
+/* Styleframe */
+
+@import 'general/styleframe.css';
+
+
+/* SPECIFIC GLOBAL STYLESHEETS *//*
+@import './phase-description-style.css'; /* We need this globally for the phase description in the reference project */
+
+/* COMPONENT STYLESHEETS */
+
+/* ANIMATION STYLESHEETS *//*
+@import 'general/animation.css';*/
+
+
+
